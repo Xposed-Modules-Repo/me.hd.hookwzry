@@ -4,6 +4,8 @@
 
 > **HookWzry By HdShare**
 
+> **王者荣耀 启动**
+
 <div align="center">
 
   [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.hd.hookwzry?label=stars)](https://github.com/Xposed-Modules-Repo/me.hd.hookwzry)
@@ -24,9 +26,29 @@
 ---
 ## 功能:
 
-后续将依据star和download情况进一步更新与适配。
+后续将依据star和download情况进一步更新与适配.
+
+We will continue to update and adapt based on the number of stars and downloads in the future.
+
+<table>
+    <tr>
+        <td align="center"><b>Name</b></td>
+        <td align="center"><b>Status</b></td>
+    </tr>
+    <tr>
+        <td align="center">战区位置</td>
+        <td align="center">✅</td>
+    </tr>
+    <tr>
+        <td align="center">实名认证</td>
+        <td align="center">✅</td>
+    </tr>
+</table>
 
 ---
 ## 贡献:
 
 在使用过程中有任何问题或建议, 请通过issues提交.
+
+If you encounter any issues or have any suggestions during use, please submit them through issues.
+
