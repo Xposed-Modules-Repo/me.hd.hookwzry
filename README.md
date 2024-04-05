@@ -4,8 +4,6 @@
 
 > **HookWzry By HdShare**
 
-> **王者荣耀 启动**
-
 <div align="center">
 
   [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.hd.hookwzry?label=stars)](https://github.com/Xposed-Modules-Repo/me.hd.hookwzry)
@@ -42,6 +40,10 @@ We will continue to update and adapt based on the number of stars and downloads 
     <tr>
         <td align="center">实名认证</td>
         <td align="center">✅</td>
+    </tr>
+    <tr>
+        <td align="center">更多功能</td>
+        <td align="center">❓</td>
     </tr>
 </table>
 
