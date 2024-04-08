@@ -19,7 +19,7 @@
 ---
 ## 说明:
 
-[教程视频](https://www.bilibili.com/video/BV1Mq421A7Pk)
+[视频 Video](https://www.bilibili.com/video/BV1Mq421A7Pk)
 
 ---
 ## 功能:
