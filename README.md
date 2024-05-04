@@ -16,6 +16,10 @@
 
 </div>
 
+[![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.hd.hookwzry)](https://github.com/Xposed-Modules-Repo/me.hd.hookwzry/releases/latest)
+
+</div>
+
 ---
 ## 功能:
 
